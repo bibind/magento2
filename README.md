@@ -1,1 +1,1 @@
-# magento2
+# Création des images docker magento2
